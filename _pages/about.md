@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I got my first job in 2004. It was a standalone accounting system developed in Delphi. Most of the business logic was embedded directly in form event handlers, leading to spaghetti code. However, it was not that bad in the sense that changes made in one part of the application did not impact the rest.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Later on, the concept of features isolated from each other will be introduced in the Vertical Slice Architecture. But before that happened, I had time to:
+
+* work for 5 years as an Assistant Professor at the Kharkiv Technical University,
+* start my career as a software engineer at one of the largest Scandinavian telecoms,
+* begin to hate the developer job,
+* and then start loving it so much that my wife would occasionally have to pull me away from my laptop,
+* and of course, C# and .NET appeared in my life.
+
+I have never worked for Big Five, but I've had the opportunity to work on huge systems with hundreds of thousands of customers and millions of requests per day, deal with European and American management style, and collaborate with engineers from all over the world.
+
+Here I would like to share my experience and notes that have accumulated over these years.
