@@ -90,13 +90,14 @@ defaults:
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://localhost:4000/"
-repository: "akovanev/blog.github.io"
+repository: "akovanev/blog"
 comments:
   provider: "utterances"
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
     label: "comment" 
+    crossorigin: "anonymous"
 
 category_archive:
   type: liquid
