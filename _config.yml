@@ -89,7 +89,7 @@ defaults:
       author_profile: true
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://localhost:4000/"
+url: "https://akovanev.com"
 repository: "akovanev/blog"
 comments:
   provider: "utterances"
