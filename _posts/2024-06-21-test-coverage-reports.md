@@ -9,9 +9,9 @@ tags:
   - docker
 ---
 
-Nick Chapsas has made an excellent [video](https://www.youtube.com/watch?v=xwMWGYD8rgk) that explains how to create test coverage reports.
+Nick Chapsas has made an excellent [video](https://www.youtube.com/watch?v=xwMWGYD8rgk) that explains how to collect the code coverage.
 
-To enhance our development experience, we aim to automate the process and visualize the report in a Docker container.
+To enhance our development experience, we aim to automate the process and visualize the test coverage report in a Docker container.
 
 Here is an example of a Dockerfile:  
 
@@ -56,13 +56,13 @@ CMD ["nginx", "-g", "daemon off;"]
 Then the `docker-compose.yml` may look like the following:
 
 ```yaml
-name: datetimeextensions-test-coverage 
+name: date-extensions-test 
 services:
   coverage-report:
-    container_name: datetimeextensions-report
+    container_name: date-extensions-coverage-report
     build:
         context: .
-        dockerfile: ./tests/DateTimeExtensions.UnitTests/Dockerfile
+        dockerfile: ./tests/DateExtensions.UnitTests/Dockerfile
     ports:
       - "7271:80"
 ```
