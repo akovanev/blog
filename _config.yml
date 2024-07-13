@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Oleksandr Kovanev"
+  name   : "Sasha Kovanev"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ".NET engineer, former scientist. <br/> Loving father, husband, and son."
   links:
