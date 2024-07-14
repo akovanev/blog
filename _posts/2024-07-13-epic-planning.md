@@ -1,5 +1,5 @@
 ---
-title: "Visualizing project execution"
+title: "Visualize project planning and execution"
 categories:
   - Project Management
 tags:
@@ -18,4 +18,4 @@ I use an approach similar to [Petri nets](https://en.wikipedia.org/wiki/Petri_ne
 
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/ex-work.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/ex-work.png" /></a>
 
-New issues are added during the process. The current status is indicated by the filling type. Colleagues assigned to the tasks represent additional inforamtion.
+New issues can be added during the process. The current status is determined by the filling type, allowing you to see the progress at any point. Additionally, you might include helpful information to align the work.
