@@ -1,5 +1,5 @@
 ---
-title: "Use docker for test coverage reports"
+title: "Test coverage reports with docker"
 categories:
   - Testing
 tags:
@@ -9,9 +9,7 @@ tags:
   - docker
 ---
 
-Nick Chapsas has made an excellent [video](https://www.youtube.com/watch?v=xwMWGYD8rgk) that explains how to collect the code coverage.
-
-To enhance our development experience, we aim to automate the process and visualize the test coverage report in a Docker container.
+Nick Chapsas has made an excellent [video](https://www.youtube.com/watch?v=xwMWGYD8rgk) that explains how to collect the code coverage. To enhance our development experience, we aim to automate the process and visualize the test coverage report using Docker.
 
 Here is an example of a Dockerfile:  
 
