@@ -14,12 +14,12 @@ Naturally, starting without full clarity meant being prepared for rework. And th
 
 As we progressed with shaping, it became clear that, given the specifics of the service, we didn’t need NoSQL and could rely on caching alone. This led to the removal of all infrastructure and code related to the NoSQL setup.
 
-In total, we spent around 6 days creating and then removing that part of the infrastructure — spread across multiple tasks, but still significant.
+In total, we spent around 45 man-hours creating and then removing that part of the infrastructure — spread across multiple tasks, but still significant.
 
 Looking back on this experience, my thoughts can be summarized as follows:
 
-* The number of meetings we had to go through during the shaping phase was huge, and the alignment process took a long time. We chose to prepare one of the most complicated parts early on, and I believe that if we hadn't started this way, we wouldn't be ready for the next steps now. While we did spend those 6 days, the alternative would have been just waiting and accomplishing nothing.
+* The number of meetings we had to go through during the shaping phase was huge, and the alignment process took a long time. We chose to prepare one of the most complicated parts early on, and I believe that if we hadn't started this way, we wouldn't be ready for the next steps now. While we did spend those hours, the alternative would have been just waiting and accomplishing nothing.
 
-* During those 6 days, we learned a lot about our infrastructure, and the process was also helpful for new people joining both the company and the project.
+* During this period, we learned a lot about our infrastructure, and the process was also helpful for new people joining the project.
 
 Overall, I consider this experience a positive one. It would be great to gather even more insights on this topic in the future.
